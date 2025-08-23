@@ -28,5 +28,5 @@ It serves as both my personal study log and a reference for anyone else learning
 
 ### 1. Clone the repo  
 ```bash
-git clone https://github.com/M-F-Tushar/.git
-cd hands-on-ml
+git clone https://github.com/M-F-Tushar/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow.git
+cd Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow
