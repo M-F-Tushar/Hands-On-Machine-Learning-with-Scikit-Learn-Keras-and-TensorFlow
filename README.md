@@ -1,4 +1,5 @@
 # 📘 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow  
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/00e57f80-155b-4a28-943f-5023953d4a7f" />
 
 This repository contains my **hands-on practice, notes, and learning materials** while working through the book:  
 
