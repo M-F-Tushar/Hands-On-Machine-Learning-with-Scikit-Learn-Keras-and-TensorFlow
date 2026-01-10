@@ -1,5 +1,7 @@
 # Machine Learning: Key Concepts & Definitions
 
+<img width="2752" height="1536" alt="Chapter 1 - The Machine Learning Landscape" src="https://github.com/user-attachments/assets/fee9cafc-c0a9-4646-b72d-07e897bae0a3" />
+
 ## Core Definitions
 
 ### What is Machine Learning?
