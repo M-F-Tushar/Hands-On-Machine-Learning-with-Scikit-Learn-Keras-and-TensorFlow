@@ -1,4 +1,6 @@
 # End-to-End Machine Learning Project Workflow
+<img width="2752" height="1536" alt="The Machine Learning Project Lifecycle" src="https://github.com/user-attachments/assets/a8a4b89e-1557-4390-9a32-73b31b888da5" />
+
 ## Complete Cheat Sheet
 
 > **Chapter 2**: A comprehensive visual guide to the 8-step machine learning workflow for building production-ready ML systems.
