@@ -1,13 +1,9 @@
 # 📘 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow  
 <img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/00e57f80-155b-4a28-943f-5023953d4a7f" />
 
-![Hands-On Machine Learning](https://images-na.ssl-images-amazon.com/images/I/81O8BkMAc-L.jpg)
-
 > **Personal learning journey through "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (3rd Edition)" by Aurélien Géron**
 
 This repository documents my hands-on practice, notes, experiments, and implementations while working through one of the most comprehensive machine learning books available. It serves as both a personal study log and a reference resource for anyone learning practical machine learning with Python.
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/jupyter-notebooks-orange.svg)](https://jupyter.org/)
 
@@ -219,12 +215,6 @@ While this is primarily a personal learning repository, contributions are welcom
 - Some implementations may differ from the book's examples as they reflect my personal understanding and experiments
 - This repository is **not affiliated** with O'Reilly Media or the book's author
 - Please purchase the book to support the author: [Hands-On Machine Learning on O'Reilly](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
