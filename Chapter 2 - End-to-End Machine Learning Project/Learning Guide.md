@@ -1,4 +1,4 @@
-# Chapter 2: End-to-End Machine Learning Project
+# Chapter 2: End-to-End Machine Learning Project 
 ## 🎯 Easy Learning Guideline with Simple Language
 
 **Your Goal:** Learn the complete journey of building a real machine learning project from start to finish. Think of it as a map for solving any ML problem.
